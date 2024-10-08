@@ -12,3 +12,9 @@ div{
 body{
     background-color: violet;
 }
+img{
+    float: right;
+}
+p{
+    font-size: 2rem;
+}
