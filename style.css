@@ -7,7 +7,8 @@ div{
     color: black;
     padding: 0px 5px;
     margin: 5px 10px;
-    text-align: center;
+    display: flex;
+    justify-content: space-around;
 }
 body{
     background-color: violet;
