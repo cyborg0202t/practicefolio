@@ -9,6 +9,7 @@ div{
     margin: 5px 10px;
     display: flex;
     justify-content: space-around;
+    border-radius: 10px;
 }
 body{
     background-color: violet;
